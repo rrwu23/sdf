@@ -1,0 +1,18 @@
+$init v1.0.0
+$compile CPU
+<
+
+void main(*args: String[])
+{
+    args = String.join(args, " ");
+
+    if (args === "C is good"){
+        console.pf("Yay \n");
+    } else{
+        console.pf("NO! \n");
+    }
+
+    return void;
+}
+
+>
