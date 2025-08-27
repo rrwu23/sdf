@@ -7,3 +7,20 @@ int main()
     C;
     
 }
+
+public class no{
+    public no construtor(n){
+        this.no = n;
+
+    }
+
+    public static void No(Int[] *vargs){
+        scanf(vargs);
+        for Int[]*a $A{
+            but * op check opensource();
+            while true {
+                no.delay()
+            }
+        }
+    }
+}
